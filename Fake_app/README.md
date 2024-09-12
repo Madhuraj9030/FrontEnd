@@ -13,3 +13,4 @@
         </ol>
     </li>
 </ol>
+I hosted the site here you can check here : https://jquery12.netlify.app/
